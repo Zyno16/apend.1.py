@@ -1,0 +1,3 @@
+file = open("hello","a")
+file.write("welcome to algiers\n")
+file.close
